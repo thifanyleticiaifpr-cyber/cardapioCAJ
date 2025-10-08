@@ -1,0 +1,21 @@
+  .body{
+    font-family: Arial, sans-serif;
+    background-color: #ba833f;
+    color: #3b2f2f; 
+    margin: 0;
+    padding: 20px;
+  }
+.h1 {
+    text-align: center;
+    color: #4b2e19; 
+  }
+
+
+.cardapio {
+    max-width: 500px;
+    margin: 20px auto; 
+    background-color: #e3c8a8; 
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  }
